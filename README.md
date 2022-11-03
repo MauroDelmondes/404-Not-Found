@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://inquisitive-dieffenbachia-ae9fe7.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -39,10 +39,9 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
+- Where can I see your demo? [Here](https://inquisitive-dieffenbachia-ae9fe7.netlify.app/)
 - What have you learned/improved?
-- Your wisdom? :)
+  - Responsive style with HTML5 and CSS3.
 
 ### Built With
 
